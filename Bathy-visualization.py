@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 20 18:03:57 2024
-
-@author: Ariadna Canari
+This file is part of Project PositViPy.
+Copyright (c) 2024 ACC3-gis
+This code is licensed under the GNU GPL License.
+See the LICENSE file in the project root for license terms.
+"""
 """
 
 import numpy as np
