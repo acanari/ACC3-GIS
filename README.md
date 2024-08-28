@@ -8,7 +8,7 @@ Welcome to **ACC3-GIS Team**! We have created this group with the goal of advanc
 
 ## 🎯 Our Goals
 
-- **Promote Spatial Literacy:** Enhance understanding and application of Geographic Information Systems (GIS) among researchers.
+- **Promote Spatial Literacy:** Enhance understanding and application of Geographic Information Systems (GIS) among users interested in (students, researchers,employees in industry, etc.).
 - **Empower Data-Driven Decisions:** Support the use of spatial data in making informed, impactful decisions.
 - **Foster Sustainable Development:** Encourage the use of GIS for sustainable and responsible development practices.
 
