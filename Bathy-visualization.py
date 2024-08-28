@@ -2,7 +2,7 @@
 """
 This file is part of Project PositViPy.
 Copyright (c) 2024 ACC3-gis
-This code is licensed under the GNU GPL License.
+This code is licensed under the MIT License.
 See the LICENSE file in the project root for license terms.
 """
 """
