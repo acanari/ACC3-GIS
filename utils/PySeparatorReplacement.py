@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon May 20 00:45:51 2024
-
-@author: Ariadna Canari
+This file is part of Project PySeparatorReplacement.
+Copyright (c) 2024 Canari.A
+This code is licensed under the MIT License.
+See the LICENSE file in the project root for license terms.
 """
 '''
 This script processes all Excel, CSV, and TXT files in a specified directory, performing character 
