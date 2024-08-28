@@ -52,13 +52,13 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 
 ## 🛠️ Contributing
 
-We welcome contributions from everyone. Whether it's improving documentation, adding new resources, or offering feedback, your help is appreciated! Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from everyone. Whether it's improving documentation, adding new resources, or offering feedback, your help is appreciated! 
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the  GNU GENERAL PUBLIC License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
