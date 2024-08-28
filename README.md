@@ -1,7 +1,8 @@
- # ACC3-GIS: Early Career Researchers Specialized in GIS
+ # ACC3-GIS: Early Career Researchers Specialized in GIS![Sin título-1](https://github.com/user-attachments/assets/4934c065-f92c-48eb-8aba-3c7d838ab4b8)
+
 
 Welcome to **ACC3-GIS Team**! We have created this group with the goal of advancing GIS education and outreach by providing accessible, high-quality training to early career researchers and beyond. Our mission is to promote spatial literacy, empower data-driven decision-making, and support sustainable development practices. Follow us to harness the power of GIS!
-![Sin título-1](https://github.com/user-attachments/assets/9826a78d-eb23-402f-93dc-4f35bddc69d2)
+
 
 ---
 
