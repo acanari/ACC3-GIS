@@ -2,7 +2,7 @@
 """
 This file is part of Project Pyclean-data.
 Copyright (c) 2024 Canari.A
-This code is licensed under the MIT License.
+This code is licensed under the GNU GPL License.
 See the LICENSE file in the project root for license terms.
 """
 """
